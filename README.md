@@ -1,5 +1,5 @@
-- 👋 Meu nome é @annaclaramota
-- 👍 Meu email de contato é anna.mota@escola.pr.gov.br
+- 👋 Meu nome é **@annaclaramota**
+- 👍 Meu email de contato é [email](anna.mota@escola.pr.gov.br)
 - 👀 Eu estou interesada em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
